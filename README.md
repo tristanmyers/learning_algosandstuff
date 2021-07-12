@@ -6,4 +6,4 @@ these are written in typescript
 #### to read my thoughts and process:
 https://github.com/tristanmyers/learning_algosandstuff/wiki
 
-#### experimentaion code in the /scripts directory
+#### experimentation code in the /scripts directory
