@@ -4,6 +4,6 @@ Just me learning algos and other fundamental programming things. Figured I could
 these are written in typescript
 
 #### to read my thoughts and process:
-https://tristanmyers.github.io/learning_algosandstuff/
+https://github.com/tristanmyers/learning_algosandstuff/wiki
 
 #### experimentaion code in the /scripts directory
