@@ -1,0 +1,12 @@
+{
+  "name": "learning_ts_algos",
+  "version": "1.0.0",
+  "description": "learning typescript and programming algos",
+  "main": "./scripts/js/index.js",
+  "scripts": {
+    "watch-ts": "tsc -w ./scripts/ts/index.ts --outDir ./scripts/js ",
+    "watch-output": "nodemon ./scripts/js/index.js "
+  },
+  "author": "tristan",
+  "license": "ISC"
+}
